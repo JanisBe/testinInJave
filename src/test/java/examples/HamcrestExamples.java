@@ -11,5 +11,5 @@ public class HamcrestExamples {
 	public void should(){
 		System.out.println("true = " + true);
 	}
-
+	private int feat = 9;
 }
