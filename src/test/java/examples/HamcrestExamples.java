@@ -7,4 +7,9 @@ public class HamcrestExamples {
 		System.out.println("true = " + true);
 	}
 	private int feat = 9;
+
+	public void should(){
+		System.out.println("true = " + true);
+	}
+
 }
