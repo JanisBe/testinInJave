@@ -6,4 +6,8 @@ public class HamcrestExamples {
 		System.out.println("zmiana na masterze");
 	}
 
+	public void should(){
+		System.out.println("true = " + true);
+	}
+
 }
